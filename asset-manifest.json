@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/psd-to-react/static/js/main.936e7319.chunk.js",
+    "main.js.map": "/psd-to-react/static/js/main.936e7319.chunk.js.map",
+    "runtime-main.js": "/psd-to-react/static/js/runtime-main.7bf5d56b.js",
+    "runtime-main.js.map": "/psd-to-react/static/js/runtime-main.7bf5d56b.js.map",
+    "static/css/2.379dd523.chunk.css": "/psd-to-react/static/css/2.379dd523.chunk.css",
+    "static/js/2.4b71e904.chunk.js": "/psd-to-react/static/js/2.4b71e904.chunk.js",
+    "static/js/2.4b71e904.chunk.js.map": "/psd-to-react/static/js/2.4b71e904.chunk.js.map",
+    "index.html": "/psd-to-react/index.html",
+    "precache-manifest.cd8bc66a7b25db68fa12b4eb6e5d35e5.js": "/psd-to-react/precache-manifest.cd8bc66a7b25db68fa12b4eb6e5d35e5.js",
+    "service-worker.js": "/psd-to-react/service-worker.js",
+    "static/css/2.379dd523.chunk.css.map": "/psd-to-react/static/css/2.379dd523.chunk.css.map",
+    "static/js/2.4b71e904.chunk.js.LICENSE.txt": "/psd-to-react/static/js/2.4b71e904.chunk.js.LICENSE.txt",
+    "static/media/ProximaNova-Bold.otf": "/psd-to-react/static/media/ProximaNova-Bold.72b6f2c9.otf",
+    "static/media/Yrsa-Bold.ttf": "/psd-to-react/static/media/Yrsa-Bold.517d13eb.ttf",
+    "static/media/Yrsa-Light.ttf": "/psd-to-react/static/media/Yrsa-Light.d9d7b6a9.ttf",
+    "static/media/Yrsa-Medium.ttf": "/psd-to-react/static/media/Yrsa-Medium.ce8a30ea.ttf",
+    "static/media/Yrsa-Regular.ttf": "/psd-to-react/static/media/Yrsa-Regular.7abc7135.ttf",
+    "static/media/Yrsa-SemiBold.ttf": "/psd-to-react/static/media/Yrsa-SemiBold.69ae60a2.ttf",
+    "static/media/customer-picture.png": "/psd-to-react/static/media/customer-picture.b58f44b8.png",
+    "static/media/page-intro-img-1.png": "/psd-to-react/static/media/page-intro-img-1.ba48025b.png",
+    "static/media/page-intro-img-2.png": "/psd-to-react/static/media/page-intro-img-2.f904802d.png",
+    "static/media/person.png": "/psd-to-react/static/media/person.f6a772e5.png",
+    "static/media/slick-theme.css": "/psd-to-react/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bf5d56b.js",
+    "static/css/2.379dd523.chunk.css",
+    "static/js/2.4b71e904.chunk.js",
+    "static/js/main.936e7319.chunk.js"
+  ]
+}
